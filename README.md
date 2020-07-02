@@ -6,10 +6,10 @@
 
 2. Different Types of Regularization
 
-  a. Data Augmentation
+  * Data Augmentation
   
-  b. Dropouts
+  * Dropouts
   
-  c. L1/L2 Penalty
+  * L1/L2 Penalty
   
 3. Batch Normalization
